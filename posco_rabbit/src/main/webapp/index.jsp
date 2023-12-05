@@ -7,6 +7,6 @@ pageEncoding="UTF-8"%>
     <title>Indudu</title>
   </head>
   <body>
-    <h1>Mangom is cute.</h1>
+    <h1>Mangom is cute!</h1>
   </body>
 </html>
